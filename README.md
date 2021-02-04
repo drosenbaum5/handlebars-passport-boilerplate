@@ -1,41 +1,49 @@
-# Unit 14 Sequelize Homework: Reverse Engineering Code
+# handlebars-passport-boilerplate
 
-Reverse engineer the starter code provided and create a tutorial for the code.
 
-In the `Develop` folder, there is starter code for a project. Begin inspecting the code to get an understanding of each file's responsibility. Then, in a Google Doc, write a tutorial explaining *every* file and its purpose. If one file is dependant on other files, be sure to let the user know.
+## Description
 
-At the end of the tutorial, add instructions for how you could now add changes to this project.
+This is a basic boilerplate for authentication using passport, handlebars, express, and sequelize
 
-Following the [common templates for user stories](https://en.wikipedia.org/wiki/User_story#Common_templates), we can frame this challenge as follows:
+## Table of Contents 
+
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [Contributing](#contributing)
+
+* [Tests](#tests)
+
+* [Questions](#questions)
+
+## Installation
+
+To install necessary dependencies, run the following command:
 
 ```
-AS A developer
-
-I WANT a walk-through of the codebase
-
-SO THAT I can use it as a starting point for a new project
+npm i
 ```
 
-## Business Context
+## Usage
 
-When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
+Fork this repo and 'git clone' to use this authentication boilerplate
 
-## Acceptance Criteria
 
-```md
-GIVEN a Node.js application using Sequelize and Passport
-WHEN I follow the walkthrough
-THEN I understand the codebase
+  
+## Contributing
+
+other users may not contribute to this repo
+
+## Tests
+
+To run tests, run the following command:
+
 ```
-- - -
+npm test
+```
 
-## Submission on BCS
+## Questions
 
-You are required to submit the following:
+If you have any questions about the repo, open an issue or contact me directly at drosenbaum5@gmail.com. You can find more of my work at [drosenbaum5](https://github.com/drosenbaum5/).
 
-* A link to a Google Doc or video explaining the application in `Develop/`. 
-
-_Note: Don't forget to change the sharing settings on your Google Doc._
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
